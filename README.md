@@ -1,18 +1,18 @@
-# Project Title: Telegram Attendance Bot
+# Loyihaning Nomi: Telegram Davomat Boti
 
-## Description
-A Telegram bot for managing attendance using asynchronous programming with `aiogram` and `Tortoise ORM`.
+## Tavsif
+Asinxron dasturlash yordamida `aiogram` va `Tortoise ORM` bilan davomatni boshqarish uchun Telegram boti.
 
-## Installation Instructions
-1. Clone the repository.
-2. Install the required packages using `pip install -r requirements.txt`.
-3. Set up your `.env` file with your `BOT_TOKEN`.
+## O'rnatish bo'yicha ko'rsatmalar
+1. Repozitoriyani klonlang.
+2. Talab qilinadigan paketlarni o'rnating: `pip install -r requirements.txt`.
+3. `.env` faylingizga `BOT_TOKEN` ni sozlang.
 
-## Usage
-Run the bot using `python main.py` and interact with it on Telegram.
+## Foydalanish
+Botni ishga tushirish uchun `python main.py` buyrug'ini bajaring va Telegram orqali u bilan muloqot qiling.
 
-## Contributing
-Guidelines for contributing to the project.
+## Hissa qo'shish
+Loyihaga hissa qo'shish bo'yicha ko'rsatmalar.
 
-## License
-Specify the license under which the project is distributed.
+## Litsenziya
+Loyiha tarqatiladigan litsenziyani ko'rsating.
