@@ -9,7 +9,9 @@ Bu loyiha Telegram orqali davomatni boshqarish uchun mo'ljallangan bot bo'lib, f
 - **Darslar jadvalini ko'rish** 📅: Foydalanuvchilar darslar jadvalini ko'rish imkoniyatiga ega.
 - **O'qituvchilar bilan bog'lanish** 📞: O'qituvchilar bilan muloqot qilish imkoniyati.
 
-![img](https://github.com/user-attachments/assets/54b6ee29-f798-47af-967c-cebd70927fba)
+
+![photo_2024-12-19_21-11-47](https://github.com/user-attachments/assets/752ca0f7-9da7-4b53-a95d-da6e837803d4)
+
 
 
 ## Foydalanilgan texnologiyalar 🛠️
