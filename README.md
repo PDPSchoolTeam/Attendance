@@ -2,6 +2,7 @@
 
 ## Tavsif
 Asinxron dasturlash yordamida `aiogram` va `Tortoise ORM` bilan davomatni boshqarish uchun Telegram boti.
+![img](https://github.com/user-attachments/assets/54b6ee29-f798-47af-967c-cebd70927fba)
 
 ## O'rnatish bo'yicha ko'rsatmalar
 1. Repozitoriyani klonlang.
